@@ -13,5 +13,18 @@ Re-implementation of BIMPM(Bilateral Multi-Perspective Matching for Natural Lang
 
 ### Evaluation
 
-Continuing...
+Accuracy on Snli data set（%）：
+
+| data set | Accuracy（%） |
+| :------: | :-----------: |
+| dev set  |     85.74     |
+| test set |     84.91     |
+
+Accuracy on the article is **86.0**(test set).
+
+
+
+### Prediction
+
+Upload soon!
 
